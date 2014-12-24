@@ -1,4 +1,6 @@
 Go - code that grows with grace
 ===============================
 
-Golang - code that grows with grace - talk 2012 Andrew Gerrand
+Talk 2012 Andrew Gerrand
+
+http://talks.golang.org/2012/chat.slide#2
