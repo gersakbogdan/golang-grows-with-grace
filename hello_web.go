@@ -25,6 +25,4 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-
-	fmt.Println("Server is listening on port 4000")
 }
